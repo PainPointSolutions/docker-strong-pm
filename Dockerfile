@@ -2,7 +2,7 @@
 FROM strongloop/strong-pm
 
 # File Author.
-MAINTAINER Robert Hänsel <robert@advalyze.de>
+MAINTAINER Robert Hänsel <robert@travojo.net>
 
 USER root
 
